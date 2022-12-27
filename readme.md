@@ -1,4 +1,4 @@
-1.git clon 
+1.git clon  <ssh>
 2.включите venv:
     1.python -m vevn venv
     2. . venv/bin/activate 
